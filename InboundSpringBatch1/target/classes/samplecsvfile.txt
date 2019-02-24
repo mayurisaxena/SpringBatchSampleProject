@@ -1,5 +1,0 @@
-productId,productName,productQty,productPrice,currency
-1,T-Shirt,10,5,sgd
-2,Jeans,10,600,inr
-3,Shirt,20,10,sgd
-4,Tie,20,12,sgd
