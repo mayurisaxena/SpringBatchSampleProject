@@ -18,8 +18,8 @@
 		http://www.springframework.org/schema/data/jpa/spring-jpa-1.0.xsd
 		http://www.springframework.org/schema/util  http://www.springframework.org/schema/util/spring-util-3.1.xsd">
 
-	<!-- <import resource="applicationContext.xml" />
- -->
+	<import resource="applicationContext.xml" />
+ 
 	<!-- JobRepository and JobLauncher are configuration/setup classes -->
 	<bean id="jobRepository"
 		class="org.springframework.batch.core.repository.support.MapJobRepositoryFactoryBean" />

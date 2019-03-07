@@ -1,0 +1,1 @@
+java -cp ../target/InboundBatch1-0.0.1-SNAPSHOT.jar:../lib/dependency-jars/* org.springframework.batch.core.launch.support.CommandLineJobRunner file:../jobs/InboundBatch1.xml INBOUND_BATCH_1
